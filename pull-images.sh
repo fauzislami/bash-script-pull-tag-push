@@ -1,7 +1,7 @@
 #!/bin/bash
 
-NEXUS_REGISTRY=registry.ocp.i3datacenter.com:5000
-NEXUS_REPO=testing/ocp4
+NEXUS_REGISTRY=<REGISTRY-NAME>:<REGISTRY-PORT>
+NEXUS_REPO=<REPOSITORY-NAME>
 filename1='images.txt'
 NC='\033[0m'
 n=0
