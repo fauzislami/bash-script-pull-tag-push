@@ -1,4 +1,4 @@
-aws-machine-controllers                       quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:76f8429dd80b7ac6d854da1f05d37da6a089fa79d6a2339af2d8e2c171df38ef
+  aws-machine-controllers                       quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:76f8429dd80b7ac6d854da1f05d37da6a089fa79d6a2339af2d8e2c171df38ef
   azure-machine-controllers                     quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:324d52c95a16f1b3d4f3d308376c64351a45a016604d54c4133efea929e5c42d
   baremetal-installer                           quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:729dc73c0f3cc1273faeea359d9c4e138ba1ddf8a59bd47b201ed35d8979cd33
   baremetal-machine-controllers                 quay.io/openshift-release-dev/ocp-v4.0-art-dev@sha256:d4a5349ebba61ff48f0a3df7c45806187388f4c315722dcdf35b6ef7c08fe474
